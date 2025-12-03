@@ -64,6 +64,8 @@ Web-based application designed to visualize and interpret datasets. It provides 
 ## 📫 Contact Me
 - 📧 Email: [basetsanazulu07@gmail.com](mailto:basetsanazulu07@gmail.com)  
 - 💼 LinkedIn: [Basetsana Zulu](https://www.linkedin.com/in/basetsana-zulu-500012256/)
+  
+⭐️ Feel free to explore my repositories and connect with me!
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
