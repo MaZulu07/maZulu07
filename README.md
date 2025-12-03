@@ -34,8 +34,10 @@ Prototype for real-time bus tracking and delay detection in the Tshwane CBD, des
 ---
 
 ### 🔹 Marketing Content Generator
-A conversational assistant for FAQs and user guidance.  
-📂 [Repository](https://github.com/yourusername/ai-chatbot)
+Marketing Copy Generator powered by Gemini AI which helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.
+📂 [Repository](https://github.com/tech-titans-projects/marketing_post_generate)
+
+---
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
