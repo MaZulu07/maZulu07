@@ -5,9 +5,9 @@
 💡 **Passionate About:** Building real world solving applications, and writing clean, maintainable code.
 
 ## 🛠 Tech Stack
-**Languages:** Java, C#.
-**Frontend:** HTML, CSS.
-**Databases:** SQL. 
+**Languages:** Java, C#.   
+**Frontend:** HTML, CSS.   
+**Databases:** SQL.  
 **Cloud / DevOps:** Linux  
 
 ## 📌 Featured Projects
