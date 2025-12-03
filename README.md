@@ -52,6 +52,14 @@ Web-based application designed to visualize and interpret datasets. It provides 
 
 ---
 
+### 🔹 Bias Audit  
+Reproducible bias audit on the **UCI Adult Income** dataset using **Fairlearn** and **scikit-learn**. It implements multiple fairness metrics, visualizations, statistical testing, and **three**: mitigation techniques (reweighting, Exponentiated Gradient, ThresholdOptimizer).  
+**Tech:** Google Colab, Python.   
+**Deployment:** Hosted via Google Drive + Colab  
+📂 [Repository](https://github.com/tech-titans-projects/bias_audit)
+
+---
+
 ## 📫 Contact Me
 - 📧 Email: [basetsanazulu07@gmail.com](mailto:basetsanazulu07@gmail.com)  
 - 💼 LinkedIn: [Basetsana Zulu](https://www.linkedin.com/in/basetsana-zulu-500012256/)
