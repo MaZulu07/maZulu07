@@ -38,6 +38,10 @@ Marketing Copy Generator powered by Gemini AI which helps users quickly create c
 📂 [Repository](https://github.com/tech-titans-projects/marketing_post_generate)
 
 ---
+
+### 🔹 AI Resume Builder
+A conversational assistant for FAQs and user guidance.  
+📂 [Repository](https://github.com/yourusername/ai-chatbot)
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
