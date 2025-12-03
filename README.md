@@ -31,7 +31,11 @@ fundamentals.
 Prototype for real-time bus tracking and delay detection in the Tshwane CBD, designed to give commuters accurate arrival times using AI-powered predictions  
 📂 [View Figma Prototype](https://veto-repo-12732681.figma.site/)
 
+---
 
+### 🔹 Marketing Content Generator
+A conversational assistant for FAQs and user guidance.  
+📂 [Repository](https://github.com/yourusername/ai-chatbot)
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
