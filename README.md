@@ -23,25 +23,41 @@
 ### 🔹 AI Chatbot
 An interactive AI educational chatbot that serves as a knowledge assistant for AI
 fundamentals.  
+**Tech:** VoiceFlow Creator.
+**Deployment:** VoiceFlow Creator.
 📂 [View VoiceFlow Project](https://creator.voiceflow.com/share/688206e4ee1046ea3f8c45df/development)
 
 ---
 
 ### 🔹 Areyeng Bus Track Pro
-Prototype for real-time bus tracking and delay detection in the Tshwane CBD, designed to give commuters accurate arrival times using AI-powered predictions  
+Prototype for real-time bus tracking and delay detection in the Tshwane CBD, designed to give commuters accurate arrival times using AI-powered predictions 
+**Tech:** Figma prototype(UI/UX design), Spring Boot.
+**Deployment:** Web-based prototype
 📂 [View Figma Prototype](https://veto-repo-12732681.figma.site/)
 
 ---
 
 ### 🔹 Marketing Content Generator
-Marketing Copy Generator powered by Gemini AI which helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.     
+Marketing Copy Generator powered by Gemini AI which helps users quickly create customized marketing content such as product descriptions, social media posts, and ads. 
+**Tech:** HTML, CSS, Node.js.
+**Deployment:** Vercel
 📂 [Repository](https://github.com/tech-titans-projects/marketing_post_generate)
 
 ---
 
 ### 🔹 AI Resume Builder
-A conversational assistant for FAQs and user guidance.  
-📂 [Repository](https://github.com/yourusername/ai-chatbot)
+Web-based application designed to help users create, edit, and showcase professional resumes online.
+**Tech:** HTML, CSS.
+**Deployment:** Vercel
+📂 [Repository](https://github.com/tech-titans-projects/resume_project)
+
+---
+
+### 🔹 AI Resume Builder
+Web-based application designed to help users create, edit, and showcase professional resumes online.
+**Tech:** HTML, CSS.
+**Deployment:** Vercel
+📂 [Repository](https://github.com/tech-titans-projects/resume_project)
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
