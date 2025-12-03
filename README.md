@@ -1,23 +1,14 @@
 ## Hi there, I am Basetsana Zulu 👋
 
 🚀 **Aspiring Software Developer**        
-🌱 Currently learning: **AI, Python for Data Science, Professional Development**      
-💡 Passionate about building **real world solving application**, and writing **clean,        maintainable code**.
+🌱 **Currently Learning:** AI, Python for Data Science, Professional Development.      
+💡 **Passionate About:** Building real world solving applications, and writing clean, maintainable code.
 
 ## 🛠 Tech Stack
-**Languages:**  
-- Java  
-- C#
-
-**Frontend:**   
-- HTML  
-- CSS
-
-**Databases:**  
-- SQL  
-
-**Cloud / DevOps:**    
-- Linux  
+**Languages:** Java, C#.
+**Frontend:** HTML, CSS.
+**Databases:** SQL. 
+**Cloud / DevOps:** Linux  
 
 ## 📌 Featured Projects
 ### 🔹 AI Chatbot
@@ -65,7 +56,7 @@ Web-based application designed to visualize and interpret datasets. It provides 
 - 📧 Email: [basetsanazulu07@gmail.com](mailto:basetsanazulu07@gmail.com)  
 - 💼 LinkedIn: [Basetsana Zulu](https://www.linkedin.com/in/basetsana-zulu-500012256/)
   
-⭐️ Feel free to explore my repositories and connect with me!
+✨ Feel free to explore my repositories and connect with me!
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
