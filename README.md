@@ -59,9 +59,11 @@ Web-based application designed to visualize and interpret datasets. It provides 
 **Deployment:** Vercel    
 📂 [Repository](https://github.com/tech-titans-projects/analyze_dashboard)
 
+---
+
 ## 📫 Contact Me
-- 📧 Email: [yourname@email.com](mailto:yourname@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [basetsanazulu07@gmail.com](mailto:basetsanazulu07@gmail.com)  
+- 💼 LinkedIn: [Basetsana Zulu](www.linkedin.com/in/basetsana-zulu-500012256)
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
