@@ -23,7 +23,7 @@
 ### 🔹 AI Chatbot
 An interactive AI educational chatbot that serves as a knowledge assistant for AI
 fundamentals.  
-📂 [View VoiceFlow Project](https://github.com/yourusername/ai-chatbot)
+📂 [View VoiceFlow Project](https://creator.voiceflow.com/share/688206e4ee1046ea3f8c45df/development)
 <!--
 **MaZulu07/maZulu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
