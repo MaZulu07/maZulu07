@@ -44,10 +44,10 @@ Web-based application designed to help users create, edit, and showcase professi
 
 ---
 
-### 🔹 Tech Titans Sentiment Analysis Dashboard
+### 🔹 Tech Titans Sentiment Analysis Dashboard  
 Web-based application designed to visualize and interpret datasets. It provides users with interactive charts, summaries, and insights to support better decision-making.
-**Tech:** HTML, CSS.
-**Deployment:** Vercel    
+**Tech:** HTML, CSS.   
+**Deployment:** Vercel      
 📂 [Repository](https://github.com/tech-titans-projects/analyze_dashboard)
 
 ---
