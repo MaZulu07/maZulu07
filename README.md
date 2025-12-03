@@ -1,6 +1,7 @@
 ## Hi there, I am Basetsana Zulu 👋
 
-🚀 **Aspiring Software Developer**  
+🚀 **Aspiring Software Developer**
+🌱 Currently learning: **AI, Python for Data Science, Professional Development** 
 💡 Passionate about building **real world solving application**, and writing **clean, maintainable code**.
 
 <!--
