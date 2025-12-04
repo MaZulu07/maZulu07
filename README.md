@@ -14,6 +14,7 @@
 | 🔹 Project | 📖 Description | 🛠 Tech Stack | 🚀 Deployment | 📂 Link |
 |------------|----------------|---------------|---------------|---------|
 | **AI Chatbot** | Interactive AI educational chatbot that serves as a knowledge assistant for AI fundamentals. | VoiceFlow Creator | VoiceFlow Creator | [View VoiceFlow Project](https://creator.voiceflow.com/share/688206e4ee1046ea3f8c45df/development) |
+| **AI Chatbot** | Interactive AI educational chatbot that serves as a knowledge assistant for AI fundamentals. | VoiceFlow Creator | VoiceFlow Creator | [View VoiceFlow Project](https://creator.voiceflow.com/share/688206e4ee1046ea3f8c45df/development) |
 | **Areyeng Bus Track Pro** | Prototype for real-time bus tracking and delay detection in Tshwane CBD, giving commuters accurate arrival times using AI-powered predictions. | Figma prototype (UI/UX design), Spring Boot | Web-based prototype | [View Figma Prototype](https://veto-repo-12732681.figma.site/) |
 | **Marketing Content Generator** | Gemini AI-powered tool that generates customized marketing content (product descriptions, social media posts, ads). | HTML, CSS, Node.js | Vercel | [Repository](https://github.com/tech-titans-projects/marketing_post_generate) |
 | **AI Resume Builder** | Web app to create, edit, and showcase professional resumes online. | HTML, CSS | Vercel | [Repository](https://github.com/tech-titans-projects/resume_project) |
