@@ -1,4 +1,4 @@
-## Hi there, I am Basetsana Zulu 👋
+<h1 style="color:pink;">🌸 Hi, I'm Basetsana Zulu💕</h1>
 
 🚀 **Aspiring Software Developer**        
 🌱 **Currently Learning:** AI, Python for Data Science, Professional Development.      
