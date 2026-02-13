@@ -2,7 +2,7 @@
 <h1 align="center"> 🎀 <font color="#8A2BE2">Welcome to Basetsana's Dev Universe</font> 🎀 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=JAVA+DEVELOPER;CLEAN+CODE+ARCHITECTURE+☁️;TURNING+LOGIC+INTO+ART+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=JAVA+DEVELOPER;CLEAN+CODE+ARCHITECT+☁️;TURNING+LOGIC+INTO+ART+✨" alt="Typing SVG" />
 </p>
 
 ---
