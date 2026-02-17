@@ -61,9 +61,7 @@
 
 ---
 
----
-
-### 💎 Featured Projects
+### 💎 FEATURED PROJECTS
 
 #### ☕ Java & Spring Boot (Backend Excellence)
 | 💜 Project | 📖 Description | 🛠 Tech Stack | 📂 Link |
@@ -85,9 +83,7 @@
 
 ---
 
----
-
-### 📬 Let's Connect!
+### 📬 LET'S CONNECT!
 
 <p align="center">
   <a href="mailto:basetsanazulu07@gmail.com">
